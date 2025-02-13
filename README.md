@@ -11,12 +11,16 @@ A modern web application for tracking personal finances, managing expenses, and 
 - Monthly budget tracking with progress bar
 - Calendar view of transactions
 - Recent transactions list with edit/delete functionality
+  ![screencapture-localhost-5173-2025-02-13-10_31_16](https://github.com/user-attachments/assets/f4dfdf04-58c5-4a01-9f4e-f33ea355d385)
+
 
 ### 2. Currency Converter
 - Real-time currency conversion using Exchange Rate API
 - Support for multiple currencies worldwide
 - Popular currency conversion rates
 - Clean and intuitive interface
+  ![Screenshot 2025-02-13 103157](https://github.com/user-attachments/assets/95eb8727-6bb4-4e7a-81b8-8f1708d709a1)
+
 
 ### 3. Financial Insights
 - Detailed analysis of spending patterns
@@ -27,6 +31,7 @@ A modern web application for tracking personal finances, managing expenses, and 
   - High-spending categories
   - Savings goals
   - Category-specific saving tips
+![screencapture-localhost-5173-insights-2025-02-13-10_32_07](https://github.com/user-attachments/assets/725372fc-e2a5-4b4a-9995-3f7be898ff50)
 
 ## Technology Stack
 
